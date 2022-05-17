@@ -5,9 +5,9 @@
 
 
 - Come help us: 
-- * by contributing to the codebase.
-- * by creating a free asentien account.
-- * by recommending asentien to others.
+- * by contributing to the codebase
+- * by creating a free asentien account
+- * by recommending asentien to others
 
 
 - You can reach us:
