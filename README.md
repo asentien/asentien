@@ -1,6 +1,6 @@
 - GitHub profile of https://www.asentien.com
 - You'll find our open-sourced codebase at https://www.github.com/asentien/asentien-v1
-- Asentien believes in internet's promise. 
+- asentien believes in internet's promise. 
 - Our mission is to deliver it.
 
 
